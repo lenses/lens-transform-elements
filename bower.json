@@ -1,0 +1,16 @@
+{
+  "name": "input-elements",
+  "version": "0.0.0",
+  "keywords": "thelma, polymer, web-components",
+  "main": "input-elements.html",
+  "dependencies": {  
+    "polymer": "Polymer/polymer#~0.5.1",
+    "th-geocoder-firebase": "thelmanews/th-geocoder-firebase",
+    "th-array-function": "thelmanews/th-array-function",
+    "th-chart-data-filter": "thelmanews/th-chart-data-filter",
+    "th-data-join": "lenses/th-data-join",
+    "th-data-split": "thelmanews/th-data-split",
+    "th-data-group-by": "thelmanews/th-data-group-by"
+  }
+}
+
