@@ -10,6 +10,7 @@
     "th-chart-data-filter": "thelmanews/th-chart-data-filter",
     "th-data-join": "lenses/th-data-join",
     "th-data-split": "thelmanews/th-data-split",
+    "th-data-sort": "thelmanews/th-data-sort",
     "th-data-group-by": "thelmanews/th-data-group-by"
   }
 }
