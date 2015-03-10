@@ -1,20 +1,20 @@
 {
-  "name": "input-elements",
+  "name": "transform-elements",
   "version": "0.0.0",
-  "keywords": "thelma, polymer, web-components",
-  "main": "input-elements.html",
+  "keywords": "lenses, polymer, web-components",
+  "main": "transform-elements.html",
   "dependencies": {  
     "polymer": "Polymer/polymer#~0.5.1",
-    "th-geocoder-firebase": "thelmanews/th-geocoder-firebase",
-    "th-array-function": "thelmanews/th-array-function",
-    "th-chart-data-filter": "thelmanews/th-chart-data-filter",
-    "th-data-join": "thelmanews/th-data-join",
-    "th-data-split": "thelmanews/th-data-split",
-    "th-data-sort": "thelmanews/th-data-sort",
-    "th-data-criterion": "thelmanews/th-data-criterion",
-    "th-date-convert": "thelmanews/th-date-convert",
-    "th-data-table-edits": "thelmanews/th-data-table-edits",
-    "th-data-group-by": "thelmanews/th-data-group-by"
+    "lens-geocoder-firebase": "lenses/lens-geocoder-firebase",
+    "lens-array-function": "lenses/lens-array-function",
+    "lens-chart-data-filter": "lenses/lens-chart-data-filter",
+    "lens-data-join": "lenses/lens-data-join",
+    "lens-data-split": "lenses/lens-data-split",
+    "lens-data-sort": "lenses/lens-data-sort",
+    "lens-data-criterion": "lenses/lens-data-criterion",
+    "lens-date-convert": "lenses/lens-date-convert",
+    "lens-data-table-edits": "lenses/lens-data-table-edits",
+    "lens-data-group-by": "lenses/lens-data-group-by"
   }
 }
 
