@@ -1,9 +1,8 @@
 {
   "name": "transform-elements",
-  "version": "0.0.0",
   "keywords": "lenses, polymer, web-components",
   "main": "transform-elements.html",
-  "dependencies": {  
+  "dependencies": {
     "polymer": "Polymer/polymer#~0.5.1",
     "lens-data-geocoder-firebase": "lenses/lens-data-geocoder-firebase",
     "lens-data-array-func": "lenses/lens-data-array-func",
@@ -15,8 +14,16 @@
     "lens-data-table-edits": "lenses/lens-data-table-edits",
     "lens-data-formula": "lenses/lens-data-formula",
     "lens-data-crossfilter": "lenses/lens-data-crossfilter",
-    "lens-data-groupby": "lenses/lens-data-groupby",
-    "lens-data-find-replace": "lenses/lens-data-find-replace"
-  }
+    "lens-data-groupby": "lenses/lens-data-groupby"
+  },
+  "homepage": "https://github.com/lenses/lens-transform-elements",
+  "_release": "e92fb02d9c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e92fb02d9c5d336217726d754fe3007deea44ef0"
+  },
+  "_source": "git://github.com/lenses/lens-transform-elements.git",
+  "_target": "*",
+  "_originalSource": "lenses/lens-transform-elements"
 }
-
